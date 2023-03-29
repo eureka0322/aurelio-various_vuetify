@@ -1,0 +1,99 @@
+.YearView {
+  .picker {
+    .picker__body {
+      width: 100% !important;
+      .date-picker-header {
+        background-color: green;
+        .date-picker-header__value {
+          strong {
+            &.green--text {
+              color: white !important;
+            }
+          }
+        }
+      }
+      .date-picker-table {
+        table {
+          height: 100%;
+          padding-bottom: 12px;
+
+          tbody {
+            background-color: #f1f1f1;
+          }
+        }
+      }
+    }
+  }
+}
+
+.QuaterView {
+  .picker {
+    .picker__body {
+      width: 100% !important;
+      .date-picker-header {
+        background-color: green;
+        .date-picker-header__value {
+          strong {
+            &.green--text {
+              color: white !important;
+            }
+          }
+        }
+      }
+      .date-picker-table {
+        height: 79vh;
+        table {
+          height: 100%;
+          padding-bottom: 12px;
+
+          tbody {
+            background-color: #f1f1f1;
+          }
+        }
+      }
+    }
+  }
+}
+
+.MonthView {
+  .picker {
+    .picker__body {
+      width: 100% !important;
+      .date-picker-header {
+        background-color: green;
+        .date-picker-header__value {
+          strong {
+            &.green--text {
+              color: white !important;
+            }
+          }
+        }
+      }
+      .date-picker-table {
+        height: 79vh;
+        table {
+          height: 100%;
+          padding-bottom: 12px;
+
+          tbody {
+            background-color: #f1f1f1;
+          }
+        }
+      }
+    }
+  }
+}
+
+.picker__title {
+  display: none;
+}
+
+.input-group {
+  .input-group__input input {
+    text-align: center;
+  }
+}
+
+
+
+

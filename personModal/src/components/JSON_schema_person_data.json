@@ -1,0 +1,89 @@
+{
+  "title" : "Datos contractuales",
+  "type" : "object",
+  "properties" : {
+    "PhotoURL" : {
+      "type" : "string",
+      "default" : "https://randomuser.me/api/portraits/men/85.jpg",
+      "visible" : false
+    },
+    "FullName" : {
+      "title" : "Nombre completo",
+      "type" : "string",
+      "description" : "First and Last name",
+      "minLength" : 3,
+      "default" : "Laura Dris"
+    },
+    "Name" : {
+      "type" : "string",
+      "description" : "Person internal code",
+      "minLength" : 1,
+      "default" : "14301"
+    },
+    "gender" : {
+      "type" : "string",
+      "enum" : [
+        "male",
+        "female"
+      ]
+    },
+    "labourConditions" : {
+      "type" : "object",
+      "title" : "Condiciones laborales",
+      "properties" : {
+        "ProfessionalCategory" : {
+          "title" : "Categoría profesional",
+          "type" : "string",
+          "default" : "Vendedor"
+        },
+
+        "PlanArea" : {
+          "title" : "Área de planificación",
+          "type" : "string",
+          "default" : "Alcalá"
+        },
+        "CYCLEREF" : {
+          "title" : "Ciclo horario",
+          "type" : "string",
+          "default" : "L-V 8-15 # L-V 15-22"
+        },
+        "PreferentNeed" : {
+          "title" : "Puesto de trabajo",
+          "type" : "string",
+          "default" : "Planta B"
+        },
+
+        "HoursByYear" : {
+          "title" : "Horas anuales",
+          "type" : "integer",
+          "default" : 1500,
+          "minimum" : 0,
+          "maximum" : 8784
+        },
+        "Holydays" : {
+          "title" : "Vacaciones",
+          "type" : "integer",
+          "default" : 30,
+          "minimum" : 0,
+          "maximum" : 365
+        }
+      }
+    },
+    "contractPeriods" : {
+      "type" : "object",
+      "title" : "Datos administrativos vigentes",
+      "properties" : {
+        "period" : {
+          "title" : "Fechas inicio-fin",
+          "type" : "string",
+          "default" : "1/0/2016 - Indefinido"
+        },
+        "contractType" : {
+          "title" : "Tipo de contrato",
+          "type" : "string",
+          "default" : "189"
+        }
+      }
+    }
+  }
+}

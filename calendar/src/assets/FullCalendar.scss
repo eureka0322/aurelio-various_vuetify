@@ -1,0 +1,48 @@
+.YearView {
+  .YearPicker {
+    .fc.fc-unthemed.fc-ltr {
+      .fc-toolbar.fc-header-toolbar {
+        .fc-center h2 {
+          font-size: 1vh;
+        }
+      }
+      .fc-view-container {
+        font-size: 1.2vh;
+      }
+    }
+  }
+}
+
+.QuaterView {
+  .MonthPicker {
+    .fc.fc-unthemed.fc-ltr {
+      .fc-toolbar.fc-header-toolbar {
+        .fc-center h2 {
+          font-size: 1.5vh;
+        }
+      }
+      .fc-view-container {
+        font-size: 1.2vh;
+      }
+    }
+  }
+}
+
+.MonthView {
+  .fc.fc-unthemed.fc-ltr {
+    .fc-view-container {
+      font-size: 1.5vh;
+    }
+  }
+}
+
+
+.input-group {
+  .input-group__input input {
+    text-align: center;
+  }
+}
+
+
+
+

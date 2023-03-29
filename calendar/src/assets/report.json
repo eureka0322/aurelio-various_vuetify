@@ -1,0 +1,332 @@
+[
+  {
+    "Type": "Asignado",
+    "day": "2018-07-01T00:00:00",
+    "HPlannedDay": "11-15",
+    "detailedText": "ALCALA 334",
+    "bgColor": "#008040",
+    "color": "#FFFFFF",
+    "RecuadroCaja": true,
+    "ColorRecuadroCaja": "#FF7878"
+  },
+  {
+    "Type": "Asignado",
+    "day": "2018-07-02T00:00:00",
+    "HPlannedDay": "11-14:30",
+    "detailedText": "ALCALA 334",
+    "bgColor": "#008040",
+    "color": "#FFFFFF",
+    "RecuadroCaja": true,
+    "ColorRecuadroCaja": "#FF7878"
+  },
+  {
+    "Type": "Asignado",
+    "day": "2018-07-03T00:00:00",
+    "HPlannedDay": "15:30-21",
+    "detailedText": "ALCALA 334",
+    "bgColor": "#008040",
+    "color": "#FFFFFF",
+    "RecuadroCaja": false,
+    "ColorRecuadroCaja": 0
+  },
+  {
+    "Type": "Asignado",
+    "day": "2018-07-04T00:00:00",
+    "HPlannedDay": "16:30-21",
+    "detailedText": "ALCALA 334",
+    "bgColor": "#008040",
+    "color": "#FFFFFF",
+    "RecuadroCaja": false,
+    "ColorRecuadroCaja": 0
+  },
+  {
+    "Type": "Asignado",
+    "day": "2018-07-05T00:00:00",
+    "HPlannedDay": "11:30-15;16-21",
+    "detailedText": "ALCALA 334",
+    "bgColor": "#008040",
+    "color": "#FFFFFF",
+    "RecuadroCaja": false,
+    "ColorRecuadroCaja": 0
+  },
+  {
+    "Type": "Asignado",
+    "day": "2018-07-06T00:00:00",
+    "HPlannedDay": "11-15",
+    "detailedText": "ALCALA 334",
+    "bgColor": "#008040",
+    "color": "#FFFFFF",
+    "RecuadroCaja": false,
+    "ColorRecuadroCaja": 0
+  },
+  {
+    "Type": "Ausencia",
+    "day": "2018-07-07T00:00:00",
+    "HPlannedDay": "",
+    "detailedText": "",
+    "bgColor": "#add8e6",
+    "color": "#FFFFFF",
+    "RecuadroCaja": false,
+    "ColorRecuadroCaja": 0
+  },
+  {
+    "Type": "Asignado",
+    "day": "2018-07-08T00:00:00",
+    "HPlannedDay": "11-15",
+    "detailedText": "ALCALA 334",
+    "bgColor": "#008040",
+    "color": "#FFFFFF",
+    "RecuadroCaja": false,
+    "ColorRecuadroCaja": 0
+  },
+  {
+    "Type": "Asignado",
+    "day": "2018-07-09T00:00:00",
+    "HPlannedDay": "11-14:30",
+    "detailedText": "ALCALA 334",
+    "bgColor": "#008040",
+    "color": "#FFFFFF",
+    "RecuadroCaja": false,
+    "ColorRecuadroCaja": 0
+  },
+  {
+    "Type": "Asignado",
+    "day": "2018-07-10T00:00:00",
+    "HPlannedDay": "15:30-21",
+    "detailedText": "ALCALA 334",
+    "bgColor": "#008040",
+    "color": "#FFFFFF",
+    "RecuadroCaja": false,
+    "ColorRecuadroCaja": 0
+  },
+  {
+    "Type": "Asignado",
+    "day": "2018-07-11T00:00:00",
+    "HPlannedDay": "16:30-21",
+    "detailedText": "ALCALA 334",
+    "bgColor": "#008040",
+    "color": "#FFFFFF",
+    "RecuadroCaja": false,
+    "ColorRecuadroCaja": 0
+  },
+  {
+    "Type": "Asignado",
+    "day": "2018-07-12T00:00:00",
+    "HPlannedDay": "11:30-15;16-21",
+    "detailedText": "ALCALA 334",
+    "bgColor": "#008040",
+    "color": "#FFFFFF",
+    "RecuadroCaja": false,
+    "ColorRecuadroCaja": 0
+  },
+  {
+    "Type": "Asignado",
+    "day": "2018-07-13T00:00:00",
+    "HPlannedDay": "11-15",
+    "detailedText": "ALCALA 334",
+    "bgColor": "#008040",
+    "color": "#FFFFFF",
+    "RecuadroCaja": false,
+    "ColorRecuadroCaja": 0
+  },
+  {
+    "Type": "Asignado",
+    "day": "2018-05-13T00:00:00",
+    "HPlannedDay": "11-15",
+    "detailedText": "ALCALA 334",
+    "bgColor": "#008040",
+    "color": "red",
+    "RecuadroCaja": false,
+    "ColorRecuadroCaja": 0
+  },
+  {
+    "Type": "Asignado",
+    "day": "2018-05-14T00:00:00",
+    "HPlannedDay": "",
+    "detailedText": "ALCALA 334",
+    "bgColor": "blue",
+    "color": "green",
+    "RecuadroCaja": false,
+    "ColorRecuadroCaja": 0
+  },
+  {
+    "Type": "Ausencia",
+    "day": "2018-07-14T00:00:00",
+    "HPlannedDay": "",
+    "detailedText": "",
+    "bgColor": "#add8e6",
+    "color": "#FFFFFF",
+    "RecuadroCaja": false,
+    "ColorRecuadroCaja": 0
+  },
+  {
+    "Type": "Asignado",
+    "day": "2018-07-15T00:00:00",
+    "HPlannedDay": "11-15",
+    "detailedText": "ALCALA 334",
+    "bgColor": "#008040",
+    "color": "#FFFFFF",
+    "RecuadroCaja": false,
+    "ColorRecuadroCaja": 0
+  },
+  {
+    "Type": "Asignado",
+    "day": "2018-07-16T00:00:00",
+    "HPlannedDay": "11-14:30",
+    "detailedText": "ALCALA 334",
+    "bgColor": "#008040",
+    "color": "#FFFFFF",
+    "RecuadroCaja": false,
+    "ColorRecuadroCaja": 0
+  },
+  {
+    "Type": "Asignado",
+    "day": "2018-07-17T00:00:00",
+    "HPlannedDay": "15:30-21",
+    "detailedText": "ALCALA 334",
+    "bgColor": "#008040",
+    "color": "#FFFFFF",
+    "RecuadroCaja": false,
+    "ColorRecuadroCaja": 0
+  },
+  {
+    "Type": "Asignado",
+    "day": "2018-07-18T00:00:00",
+    "HPlannedDay": "16:30-21",
+    "detailedText": "ALCALA 334",
+    "bgColor": "#008040",
+    "color": "#FFFFFF",
+    "RecuadroCaja": false,
+    "ColorRecuadroCaja": 0
+  },
+  {
+    "Type": "Asignado",
+    "day": "2018-07-19T00:00:00",
+    "HPlannedDay": "11:30-15;16-21",
+    "detailedText": "ALCALA 334",
+    "bgColor": "#008040",
+    "color": "#FFFFFF",
+    "RecuadroCaja": false,
+    "ColorRecuadroCaja": 0
+  },
+  {
+    "Type": "Asignado",
+    "day": "2018-07-20T00:00:00",
+    "HPlannedDay": "11-16",
+    "detailedText": "ALCALA 334",
+    "bgColor": "#008040",
+    "color": "#FFFFFF",
+    "RecuadroCaja": false,
+    "ColorRecuadroCaja": 0
+  },
+  {
+    "Type": "Ausencia",
+    "day": "2018-07-21T00:00:00",
+    "HPlannedDay": "",
+    "detailedText": "",
+    "bgColor": "#FF7878",
+    "color": "#FFFFFF",
+    "RecuadroCaja": true,
+    "ColorRecuadroCaja": 255
+  },
+  {
+    "Type": "Asignado",
+    "day": "2018-07-22T00:00:00",
+    "HPlannedDay": "11-15",
+    "detailedText": "ALCALA 334",
+    "bgColor": "#008040",
+    "color": "#FFFFFF",
+    "RecuadroCaja": false,
+    "ColorRecuadroCaja": 0
+  },
+  {
+    "Type": "Ausencia",
+    "day": "2018-07-23T00:00:00",
+    "HPlannedDay": "",
+    "detailedText": "",
+    "bgColor": "#FF7878",
+    "color": "#FFFFFF",
+    "RecuadroCaja": true,
+    "ColorRecuadroCaja": 255
+  },
+  {
+    "Type": "Incidencia",
+    "day": "2018-07-24T00:00:00",
+    "HPlannedDay": "15:30-21",
+    "detailedText": "VAC",
+    "bgColor": "#FF8951",
+    "color": "#FFFFFF",
+    "RecuadroCaja": false,
+    "ColorRecuadroCaja": 0
+  },
+  {
+    "Type": "Incidencia",
+    "day": "2018-07-25T00:00:00",
+    "HPlannedDay": "16:30-21",
+    "detailedText": "VAC",
+    "bgColor": "#FF8951",
+    "color": "#FFFFFF",
+    "RecuadroCaja": false,
+    "ColorRecuadroCaja": 0
+  },
+  {
+    "Type": "Asignado",
+    "day": "2018-07-26T00:00:00",
+    "HPlannedDay": "11:30-15;16-21",
+    "detailedText": "ALCALA 334",
+    "bgColor": "#008040",
+    "color": "#FFFFFF",
+    "RecuadroCaja": false,
+    "ColorRecuadroCaja": 0
+  },
+  {
+    "Type": "Asignado",
+    "day": "2018-07-27T00:00:00",
+    "HPlannedDay": "11-15",
+    "detailedText": "ALCALA 334",
+    "bgColor": "#008040",
+    "color": "#FFFFFF",
+    "RecuadroCaja": false,
+    "ColorRecuadroCaja": 0
+  },
+  {
+    "Type": "Ausencia",
+    "day": "2018-07-28T00:00:00",
+    "HPlannedDay": "",
+    "detailedText": "",
+    "bgColor": "#add8e6",
+    "color": "#FFFFFF",
+    "RecuadroCaja": false,
+    "ColorRecuadroCaja": 0
+  },
+  {
+    "Type": "Asignado",
+    "day": "2018-07-29T00:00:00",
+    "HPlannedDay": "11-15",
+    "detailedText": "ALCALA 334",
+    "bgColor": "#008040",
+    "color": "#FFFFFF",
+    "RecuadroCaja": false,
+    "ColorRecuadroCaja": 0
+  },
+  {
+    "Type": "Asignado",
+    "day": "2018-07-30T00:00:00",
+    "HPlannedDay": "11-14:30",
+    "detailedText": "ALCALA 334",
+    "bgColor": "#008040",
+    "color": "#FFFFFF",
+    "RecuadroCaja": false,
+    "ColorRecuadroCaja": 0
+  },
+  {
+    "Type": "Asignado",
+    "day": "2018-07-31T00:00:00",
+    "HPlannedDay": "15:30-21",
+    "detailedText": "ALCALA 334",
+    "bgColor": "#008040",
+    "color": "#FFFFFF",
+    "RecuadroCaja": false,
+    "ColorRecuadroCaja": 0
+  }
+]

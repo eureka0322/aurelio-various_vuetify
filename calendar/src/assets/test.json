@@ -1,0 +1,31 @@
+[
+  {
+    "Type": "Asignado",
+    "HPlannedDay": "11-11",
+    "startHPlannedDay": "2018-05-06T00:00:00",
+    "endHPlannedDay": "2018-05-08T00:00:00",
+    "DetailedText": "ALCALA 334",
+    "startDetailedText" : "2018-05-06T00:00:00",
+    "endDetailedText" : "2018-05-06T00:00:00",
+    "bgColor": "#0ddabb",
+    "eBGColor": "#ffc107ba",
+    "textColor": "#4caf50",
+    "RecuadroCaja": true,
+    "ColorRecuadroCaja": "#da0d8a"
+  },
+
+  {
+    "Type": "Incidencia",
+    "HPlannedDay": "12-12",
+    "startHPlannedDay": "2018-05-20T00:00:00",
+    "endHPlannedDay": "2018-05-23T00:00:00",
+    "DetailedText": "BFDERG 334",
+    "startDetailedText" : "2018-05-20T00:00:00",
+    "endDetailedText" : "2018-05-22T00:00:00",
+    "bgColor": "#008040",
+    "eBGColor": "#8dc1a7",
+    "textColor": "#f71a6e",
+    "RecuadroCaja": true,
+    "ColorRecuadroCaja": "#da0d8a"
+  }
+]

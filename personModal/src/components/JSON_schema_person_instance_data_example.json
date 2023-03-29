@@ -1,0 +1,23 @@
+{
+  "PhotoURL": "https://randomuser.me/api/portraits/men/85.jpg",
+  "FullName": "Laura Dris",
+  "Name": "14301",
+  "Gender": "male",
+  "labourConditions": {
+    "ProfessionalCategory": "Vendedor",
+    "ProfessionalCategory_limit": "..until 7/27/2018",
+    "PlanArea": "Alcalá",
+    "CYCLEREF": "L-V 8-15 # L-V 15-22",
+    "PreferentNeed": "Planta B",
+    "PreferentNeed_limit": "..until 12/31/2018",
+    "HoursByYear": 1500,
+    "Holydays": 30
+  },
+  "contractPeriods": {
+    "period": "1/0/2016 - Indefinido",
+    "contractType": "189"
+  }
+}
+
+
+

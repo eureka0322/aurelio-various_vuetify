@@ -1,0 +1,95 @@
+{
+  "description": "Lorem ipsum dolor Te sit oratio vituperatoribus, nam ad ipsum posidonium mediocritatem, explicari dissentiunt cu mea. Repudiare disputationi vim in, mollis iriure nec cu, alienum argumentum ius ad.Lorem ipsum dolor sit amet, mel at clita quando. Te sit oratio vituperatoribus, nam ad ipsum posidonium mediocritatem, explicari dissentiunt cu mea. Repudiare disputationi vim in, mollis iriure nec cu, alienum argumentum ius ad.Lorem ipsum dolor sit amet, mel at clita quando. Te sit oratio vituperatoribus, nam ad ipsum posidonium mediocritatem, explicari dissentiunt cu mea. Repudiare disputationi vim in, mollis iriure nec cu, alienum argumentum ",
+  "horarios6_list": [
+    {
+      "Codigo": "M-8-16",
+      "Definicion": "08:00 - 16:00",
+      "Tipo": "M",
+      "Pausa": "0",
+      "HoraInicio": "08:00",
+      "HoraFin": "16:00",
+      "Duracion": "8"
+    },
+    {
+      "Codigo": "M-8-16",
+      "Definicion": "08:00 - 16:00",
+      "Tipo": "M",
+      "Pausa": "0",
+      "HoraInicio": "08:00",
+      "HoraFin": "16:00",
+      "Duracion": "8"
+    },
+    {
+      "Codigo": "M-8-16",
+      "Definicion": "08:00 - 16:00",
+      "Tipo": "M",
+      "Pausa": "0",
+      "HoraInicio": "08:00",
+      "HoraFin": "16:00",
+      "Duracion": "8"
+    },
+    {
+      "Codigo": "M-8-16",
+      "Definicion": "08:00 - 16:00",
+      "Tipo": "M",
+      "Pausa": "0",
+      "HoraInicio": "08:00",
+      "HoraFin": "16:00",
+      "Duracion": "8"
+    },
+    {
+      "Codigo": "M-8-16",
+      "Definicion": "08:00 - 16:00",
+      "Tipo": "M",
+      "Pausa": "0",
+      "HoraInicio": "08:00",
+      "HoraFin": "16:00",
+      "Duracion": "8"
+    },
+    {
+      "Codigo": "M-8-16",
+      "Definicion": "08:00 - 16:00",
+      "Tipo": "M",
+      "Pausa": "0",
+      "HoraInicio": "08:00",
+      "HoraFin": "16:00",
+      "Duracion": "8"
+    },
+    {
+      "Codigo": "M-8-16",
+      "Definicion": "08:00 - 16:00",
+      "Tipo": "M",
+      "Pausa": "0",
+      "HoraInicio": "08:00",
+      "HoraFin": "16:00",
+      "Duracion": "8"
+    },
+    {
+      "Codigo": "M-8-16",
+      "Definicion": "08:00 - 16:00",
+      "Tipo": "M",
+      "Pausa": "0",
+      "HoraInicio": "08:00",
+      "HoraFin": "16:00",
+      "Duracion": "8"
+    },
+    {
+      "Codigo": "M-8-16",
+      "Definicion": "08:00 - 16:00",
+      "Tipo": "M",
+      "Pausa": "0",
+      "HoraInicio": "08:00",
+      "HoraFin": "16:00",
+      "Duracion": "8"
+    },
+    {
+      "Codigo": "M-8-16",
+      "Definicion": "08:00 - 16:00",
+      "Tipo": "M",
+      "Pausa": "0",
+      "HoraInicio": "08:00",
+      "HoraFin": "16:00",
+      "Duracion": "8"
+    }
+  ]
+}

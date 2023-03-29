@@ -1,0 +1,51 @@
+{
+  "title": "Data generals",
+  "PhotoURL": "https://randomuser.me/api/portraits/men/85.jpg",
+  "type": "object",
+  "details" : {
+    "fullName": {
+      "caption": "FullName",
+      "value": "Laura Dris"
+    },
+    "name": {
+      "caption": "Name",
+      "value": "14301"
+    },
+    "gender": {
+      "caption": "Gender",
+      "value": "male"
+    },
+    "professionalCategory": {
+      "caption": "ProfessionalCategory",
+      "value": "Vendor"
+    },
+    "planArea": {
+      "caption": "PlanArea",
+      "value": "Alcala"
+    },
+    "cycleref": {
+      "caption": "CYCLEREF",
+      "value": "L-V 8-15 # L-V 15-22"
+    },
+    "preferentNeed": {
+      "caption": "PreferentNeed",
+      "value": "Planta B"
+    },
+    "hoursByYear": {
+      "caption": "HoursByYear",
+      "value": "1500"
+    },
+    "holydays": {
+      "caption": "Holydays",
+      "value": "30"
+    },
+    "period": {
+      "caption": "Period",
+      "value": "1/0/2016 - Indefinido"
+    },
+    "contractType": {
+      "caption": "ContractType",
+      "value": "189"
+    }
+  }
+}
